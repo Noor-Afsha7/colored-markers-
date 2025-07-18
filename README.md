@@ -24,9 +24,6 @@ This is a fun and visually engaging mini project built with **HTML** and **CSS**
 
 Just open `index.html` in your browser!
 
-## 🌟 Preview
-
-![preview](preview.png) *(Optional: Add a screenshot here)*
 
 ## 🤍 Inspiration
 
